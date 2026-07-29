@@ -57,6 +57,14 @@ UIKit prayer and devotional app built with:
 - MVVM
 - MVC
 
+## Public Projects
+
+### [StressPunch](https://github.com/Brett-Buchholz/StressPunch)
+SwiftUI portfolio project demonstrating SwiftData persistence, PhotosUI, Observation, AVFAudio, state management, and automated testing.
+
+### [PokeAPIExplorer](https://github.com/Brett-Buchholz/PokeAPIExplorer)
+SwiftUI networking sample demonstrating URLSession, async/await, REST API consumption, JSON decoding, CodingKeys, pagination, HTTP response handling, and API-driven UI.
+
 ## Background
 
 Before moving into software development, I spent 17 years in accounting and business leadership, progressing from Accountant to Secretary & Treasurer and ultimately Owner / Partner of Derby Operating Corporation.

@@ -81,5 +81,3 @@ I’m currently focused on:
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/brett-buchholz-448b38425)
-- [LinkedIn](https://www.linkedin.com/in/brett-buchholz-448b38425)
-- LinkedIn: [Brett Buchholz](https://www.linkedin.com/in/brett-buchholz-448b38425)
